@@ -19,8 +19,8 @@ body{
     background: var(--Dark-cyan);
     height: 100vh;
     display: flex;
-    background-image: url(/images/bg-pattern-bottom.svg),url(/images/bg-pattern-top.svg);
-    background-position: left,right;
+    background-image: url(/images/bg-pattern-bottom.svg);
+    background-position: left;
     flex-direction: column;
     justify-content: center;
 }
